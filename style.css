@@ -32,3 +32,16 @@ nav{
     text-align: center;
     text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
 } 
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+table tr{
+    border-bottom: 1px solid #ddd;
+}
+
+table th, table td{
+    padding: 10px;
+    text-align: left;
+    border-right: 1px solid #ddd;
+}
