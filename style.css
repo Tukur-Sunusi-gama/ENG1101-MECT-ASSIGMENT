@@ -75,3 +75,6 @@ table tr:hover{
     margin-left: 5px;
     font-variant: small-caps;
 }
+.main img{
+  width: 100%;
+}
